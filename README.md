@@ -32,3 +32,12 @@ git clone https://github.com/Jason3859/notes-app-kmp.git
 cd notes-app-kmp
 ```
 
+---
+
+### Run this app
+```bash
+# clone and cd into repo first
+./gradlew installdebug # for android
+./gradlew run # for desktop
+```
+For running on an android device, make sure that the device is connected to adb daemon running on the host
