@@ -211,11 +211,7 @@ fun AppInfo(
                     fontSize = 35.sp,
                     fontWeight = FontWeight.Bold
                 )
-                Text("v1.0")
-                Text(
-                    text = "Owned and developed by Jason"
-                )
-                Text("Since 2025")
+		Text("v1.0")
             }
         }
     }
