@@ -15,11 +15,6 @@ A simple yet elegant Notes Application built with **Kotlin Multiplatform** using
 
 ---
 
-## 📦 Download
-
-To download the app, scroll down to the **Assets** section in the [Releases](https://github.com/Jason3859/notes-app-kmp/releases) tab and download the `.apk` (for Android) or `.msi` (for Windows Desktop) file.
-
----
 
 ## 🚀 Getting Started (by cloning this repo)
 
